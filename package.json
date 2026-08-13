@@ -9,9 +9,11 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@supabase/supabase-js": "^2.112.3",
     "clsx": "^2.1.1",
     "lucide-react": "^1.31.0",
     "next": "16.3.0",
+    "node-telegram-bot-api": "^1.2.0",
     "openai": "^7.4.0",
     "react": "19.2.8",
     "react-dom": "19.2.8",
@@ -20,6 +22,7 @@
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
+    "@types/node-telegram-bot-api": "^0.64.15",
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
